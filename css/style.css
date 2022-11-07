@@ -1,0 +1,9 @@
+@font-face {
+	font-family: katya-font; 
+	src: url("/fonts/Caveat-Regular.ttf");
+	} 
+	
+	p{
+		font-family: katya-font;
+		font-size: 1cm;
+	}
