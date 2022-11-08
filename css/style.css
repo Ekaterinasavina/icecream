@@ -1,9 +1,12 @@
 @font-face {
 	font-family: katya-font; 
-	src: url("/fonts/Caveat-Regular.ttf");
+	src: url("../fonts/Caveat-Regular.ttf");
 	} 
-	
+	*{
+		width: 600px;
+		background: rgb(237, 230, 230);
+	}
 	p{
 		font-family: katya-font;
-		font-size: 1cm;
+		font-size: 12pt;
 	}
