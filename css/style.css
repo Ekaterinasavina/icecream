@@ -1,12 +1,31 @@
-@font-face {
-	font-family: katya-font; 
-	src: url("../fonts/Caveat-Regular.ttf");
-	} 
-	*{
-		width: 600px;
-		background: rgb(237, 230, 230);
-	}
-	p{
-		font-family: katya-font;
-		font-size: 12pt;
-	}
+img
+{
+	height: 100px;
+	
+}
+h3
+{
+	font-size: 54px;
+	margin-bottom: 50px;
+	margin: 50px 500px 50px 500px;
+}
+.row
+{
+	display: flex;
+	margin-left: 30px;
+	margin-right: 30px;
+	font: optional;
+	font-size: 20px;
+}
+#partners
+{
+	width: 1500px;
+	height: 500px;
+	background: rgb(176, 203, 216);
+	border: 2px solid rgb(94, 94, 94);	
+}
+.partner
+{
+	color: rgb(43, 46, 226);
+	font-weight: bold;
+}
