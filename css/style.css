@@ -1,31 +1,27 @@
-img
-{
-	height: 100px;
-	
-}
+
 h3
 {
 	font-size: 54px;
 	margin-bottom: 50px;
-	margin: 50px 500px 50px 500px;
+
 }
-.row
+
+table
 {
-	display: flex;
-	margin-left: 30px;
-	margin-right: 30px;
-	font: optional;
-	font-size: 20px;
+	text-align: center;
+	width: 50%;
+	border-collapse: collapse;
+	
 }
-#partners
+td
 {
-	width: 1500px;
-	height: 500px;
-	background: rgb(176, 203, 216);
-	border: 2px solid rgb(94, 94, 94);	
+	background-color: rgb(247, 236, 191);	
+	padding: 3px;
+	border: 1px solid black;
 }
-.partner
+th
 {
-	color: rgb(43, 46, 226);
-	font-weight: bold;
+	background-color: rgb(194, 156, 230);
+	
+	
 }
